@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1 align='center'>Telecom X Latinoamérica Parte 2</h1>
+    <h1 align='center'>Telecom X Latinoamérica Parte II</h1>
     <br>
     <h2>Predicción de evasión de clientes</h2>
     <br>
@@ -7,7 +7,7 @@
 
 <h3>🛫 Descripción del proyecto 🛫</h3>
 
-_El desafío Telecom X Latam-parte 2 forma parte de la formación de Data Science del programa ONE, especificamente de la ruta Machine Learning_. _Además, es la continuación del desafío Telecom X Latam_.
+_El desafío Telecom X Latinoamérica Parte II forma parte de la formación de Data Science del programa ONE, especificamente de la ruta Machine Learning_. _Además, es la continuación del desafío <a href='https://github.com/JGarcia575/challenge_telecomX.git'>Telecom X Latinoamérica Parte I: Análisis de evasión de clientes</a>_.
 
 _La empresa Telecom X está enfrentando una alta tasa de cancelaciones y en una primera instancia, como parte del equipo de análisis de datos, se realizó el análisis exploratorio para detectar los factores que están llevando a los usuarios a dejar la empresa_.
 
@@ -35,7 +35,7 @@ _La empresa quiere anticiparse al problema de la cancelación, y le corresponde 
 
 ## 💻 Instalación del proyecto 💻
 
-_Descargar el proyecto desde <a href='https://github.com/JGarcia575/challenge_telecomX/archive/refs/heads/main.zip'>aquí</a> y abrirlo en Google Colab_.
+_Descargar el proyecto desde <a href=https://github.com/JGarcia575/challenge_telecomX_parte_2.git>aquí</a> y abrirlo en Google Colab_.
 
 _Para que el proyecto funcione correctamente es necesario tener instaladas las bibliotecas y librería Matplotlib, Seaborn, Pandas, Scikit e Imbalanced-learn_.
 _Si abrís este archivo en  Google Colab estas librerías vienen ya instaladas_. 
